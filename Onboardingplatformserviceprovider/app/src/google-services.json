@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "929479490011",
+    "firebase_url": "https://graphical-password-authenicate-default-rtdb.firebaseio.com",
+    "project_id": "graphical-password-authenicate",
+    "storage_bucket": "graphical-password-authenicate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929479490011:android:d3a644c4c2d89adccb0ffe",
+        "android_client_info": {
+          "package_name": "com.example.onboardingplatform_serviceprovider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929479490011-591d2a9463efs2965it22pp9pojcuf5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtStGZGYYNbd2ccJWvheM2KUgnfq70G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929479490011-591d2a9463efs2965it22pp9pojcuf5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
